@@ -1,0 +1,1 @@
+##  Object, Reflection и Proxy   [![Build status](https://ci.appveyor.com/api/projects/status/0pdgaqk2a06nprek?svg=true)](https://ci.appveyor.com/project/Tatiana-Nikonova/object-for-in)
